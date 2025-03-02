@@ -1,0 +1,17 @@
+html{
+    background-color: aquamarine;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+ margin:auto;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    height: 200px;
+    align-self: auto;
+}
